@@ -18,3 +18,4 @@
 ## 💡 vragen
 
 - Wat is het verschil tussen de elementen `th` en `td`?
+th zorgt ervoor dat het woord vetgedrukt is

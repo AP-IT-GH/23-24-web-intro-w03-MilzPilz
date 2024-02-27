@@ -28,5 +28,8 @@
 ## 💡 vragen
 
 - Waarvoor dient het `controls`-attribute?
+zodat je de video op pauze kan zetten
 - Waarvoor staat de `source`-element?
+om de bron van het element te vinden
 - Wanneer gebruik je meerdere `source`-elementen?
+als je meerdere bestandstypes wil gebruiken
